@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UserID</key>
+	<string></string>
+	<key>BranchGroup</key>
+	<string></string>
+	<key>GroupID</key>
+	<string></string>
+	<key>guid</key>
+	<string></string>
+	<key>deviceName</key>
+	<string></string>
+	<key>version</key>
+	<string></string>
+	<key>inTestMode</key>
+	<string></string>
+	<key>SecurityLevel</key>
+	<string></string>
+</dict>
+</plist>
