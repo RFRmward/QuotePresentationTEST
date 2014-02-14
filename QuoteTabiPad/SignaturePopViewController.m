@@ -9,8 +9,6 @@
 #import "SignaturePopViewController.h"
 #import "SignatureView.h"
 
-///////////////xxxx????????????xxx////////////
-
 @interface SignaturePopViewController() {
 @private
     __strong SignatureView *signatureView_;
