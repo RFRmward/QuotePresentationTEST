@@ -10,8 +10,6 @@
 #import "CanGoThere.h"
 
 
-NSString *customersearchURL = @"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getApprovedQuotesByCustName";
-//@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getApprovedQuotesByCustName?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&ProgType=";mrv
 NSString *IndAgSwth=nil;
 NSString *encodedcustname=nil; //mw 10-31-2013
 NSDictionary *userSettings;

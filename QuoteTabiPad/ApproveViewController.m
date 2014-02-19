@@ -22,20 +22,7 @@ NSString *fullname=nil;  //mw 10-21-2013
 NSString *encodedfullname=nil;  //mw 10-22-2013
 //NSString *quotenum=nil;  //mw 10-23-2013
 NSString *tempURL;  //mw 10-21-2013
-NSString *branchURL =
-@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getApprovedQuotesLast30Days";
-//@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getApprovedQuotesLast30Days?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&ProgType=";
 
-NSString *salesmanURL =
-@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getSalesmanQuotesLast30Days";
-//@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getSalesmanQuotesLast30Days?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&ProgType=";
-
-NSString *getbranchListURL =
-@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getBranchList";
-//@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getBranchList?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&UsrName=";
-
-
-NSDictionary *userSettings;
 
 
 

@@ -9,8 +9,6 @@
 #import "SearchQuoteViewController.h"
 #import "CanGoThere.h"
 
-NSString *quotesearchURL = @"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getApprovedQuotesByQuoteNumber";
-//@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getApprovedQuotesByQuoteNumber?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&ProgType=";
 NSString *IndAgSwitch=nil;
 NSDictionary *userSettings;
 

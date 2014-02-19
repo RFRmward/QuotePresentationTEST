@@ -9,19 +9,6 @@
 #define kDefaultPageWidth  720 //720
 #define kMargin 0
 
-NSString *QuotePDFCreate = @"http://customer.rainforrent.com/QuoteApprovePDF/QuotesPDFPortal.svc/getQuotePDF";
-//mrv@"http://customer.rainforrent.com/QuoteApprovePDF/QuotesPDFPortal.svc/getQuotePDF?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&Download=False&QuoteNum=";
-
-NSString *QuotePDFDownload = @"http://customer.rainforrent.com/QuoteApprovePDF/QuotesPDFPortal.svc/getQuotePDF";
-//mrv@"http://customer.rainforrent.com/QuoteApprovePDF/QuotesPDFPortal.svc/getQuotePDF?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&Download=True&QuoteNum=";
-
-//mw 10-31-2013
-NSString *QuoteAgPDFCreate = @"http://customer.rainforrent.com/QuotesAgPDFPortalWCF/QuotesAgPDFPortal.svc/getQuotePDF";
-//mrv@"http://customer.rainforrent.com/QuotesAgPDFPortalWCF/QuotesAgPDFPortal.svc/getQuotePDF?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&Download=False&QuoteNum=";
-
-
-NSString *QuoteAgPDFDownload = @"http://customer.rainforrent.com/QuotesAgPDFPortalWCF/QuotesAgPDFPortal.svc/getQuotePDF";
-//mrv@"http://customer.rainforrent.com/QuotesAgPDFPortalWCF/QuotesAgPDFPortal.svc/getQuotePDF?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&Download=True&QuoteNum=";
 
 
 #import "ShowQuoteViewController.h"

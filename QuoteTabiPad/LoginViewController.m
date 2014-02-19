@@ -16,11 +16,6 @@ NSString *appID = @"3"; //to be used with enhanced security
 NSString *theDevice;
 NSString *verNum;
 
-//mrv modified to use  QuotePresentation web service
-//quotes permissions and group settings
-NSString *quoteSecurityURL = @"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/getQuoteSecurity";
-NSString *prodAuthenticateURL = @"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/Authenticate";
-//mrv did away with the update URL.
 
 
 

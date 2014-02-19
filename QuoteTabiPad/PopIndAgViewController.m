@@ -10,10 +10,6 @@
 #import "CanGoThere.h"
 
 
-NSString *branchListURL = @"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/GetBranchList";
-//@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/GetBranchList?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&UsrName=";
-NSString *salesmenListURL = @"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/GetSalesmenList";
-//@"http://customer.rainforrent.com/QuotePresentationPortalWCF/QuotePresentationPortal.svc/GetSalesmenList?guid=d5d0cd1a-b172-443a-a726-df3f98af6a41&DivId=";
 NSDictionary *userSettings;
 
 @interface PopIndAgViewController (){

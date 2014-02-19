@@ -12,12 +12,7 @@
 @implementation CanGoThere
 
 
-NSString *sURLCheck =
-@"http://customer.rainforrent.com/QuoteApprove/QuoteApprovePortal.svc/ValidUser"; //?guid=121956&usr=";
 
-
-NSString *sURLTestCheck =
-@"http://customer.rainforrent.com/TestQuoteApprove/TestQuoteApprovePortal.svc/ValidUser";
 
 
 
